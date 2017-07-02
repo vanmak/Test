@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.imakogon.test.FirstTest" duration-ms="2810" started-at="2017-07-02T13:23:14Z" finished-at="2017-07-02T13:23:17Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="2810" started-at="2017-07-02T13:23:14Z" finished-at="2017-07-02T13:23:17Z">
+      <class name="com.imakogon.test.FirstTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.imakogon.test.FirstTest@129a8472]" name="setUp" is-config="true" duration-ms="3596" started-at="2017-07-02T16:23:11Z" finished-at="2017-07-02T16:23:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testMethod()[pri:0, instance:com.imakogon.test.FirstTest@129a8472]" name="testMethod" duration-ms="2793" started-at="2017-07-02T16:23:14Z" finished-at="2017-07-02T16:23:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.imakogon.test.FirstTest@129a8472]" name="tearDown" is-config="true" duration-ms="1378" started-at="2017-07-02T16:23:17Z" finished-at="2017-07-02T16:23:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.imakogon.test.FirstTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.imakogon.test.FirstTest -->
+</testng-results>
